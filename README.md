@@ -75,6 +75,8 @@ $ hexo server
 
 More info: [Server](https://hexo.io/docs/server.html)
 
+<!-- http://localhost:4000/cco/ -->
+
 ### Generate static files
 
 ``` bash
@@ -92,7 +94,6 @@ $ hexo deploy
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 ___
-
 
 
 # To create a new post or a new page, you can run the following command:
