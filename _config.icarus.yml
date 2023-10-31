@@ -49,8 +49,10 @@ head:
     - name=generator;content="Hexo 4.2.0"
   rss: 
 navbar:
-  menu: 
-    # About: /about
+  menu:
+    Home: /
+    About: /about-me
+    Shop: /ukay-ukay
   links:
     # Github:
     #   icon: fab fa-github
@@ -117,8 +119,8 @@ widgets:
     type: profile
     author: K4LM3D
     author_title: '/ka:md/'
-    location: Shangri-La City
-    avatar: /images/avatars/ReadyPlayerMe-K4LM3D.png
+    location: Shangri-La City Center
+    avatar: /images/avatars/DALLE-K4LM3D.png
     avatar_rounded: true
     gravatar: 
     follow_link: # https://github.com/K4LM3D
