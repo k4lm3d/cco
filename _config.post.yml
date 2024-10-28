@@ -1,0 +1,33 @@
+widgets:
+  -
+    position: left
+    type: profile
+    author: K4LM3D
+    author_title: '/ka:md/'
+    location: localhost # Shangri-La City, Torn City, Dead City, Duskwood
+    avatar: /images/avatars/DALLE-K4LM3D.png # ReadyPlayerMe-K4LM3D.png
+    avatar_rounded: true
+    gravatar: 
+    # follow_link: https://github.com/K4LM3D
+    social_links:
+      Facebook:
+        icon: fab fa-facebook
+        url: https://facebook.com/profile.php?id=100091224549821
+      Instagram:
+        icon: fab fa-instagram
+        url: https://www.instagram.com/k4lm3d
+      Twitter:
+          icon: fab fa-twitter
+          url: https://twitter.com/K4LM3D
+      TikTok:
+        icon: fab fa-tiktok
+        url: https://tiktok.com/K4LM3D
+  # -
+  #   type: recent_posts
+  #   position: left
+  -
+    type: categories
+    position: left
+  -
+    type: tags
+    position: left
