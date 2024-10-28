@@ -1,0 +1,22 @@
+# Redirects
+  # https://k4lm3d.github.io
+  # https://kalmed.localplayer.dev
+  # https://kalmed.gamelog.cl
+  # https://kalmed.inote.me
+  # https://kalmed.pages.dev
+
+# Internal
+/cco                      /categories/cco/
+/torn                     /categories/torn/
+
+# External
+/quantic                  https://quantic.page.link/h5ioQWnBvFZi84cr7
+/guilded                  https://www.guilded.gg/u/K4LM3D
+/github                   https://github.com/k4lm3d
+/itch                     https://k4lm3d.itch.io
+/twitch                   https://www.twitch.tv/k4lm3d_
+/reddit                   https://reddit.com/user/K4LM3D
+/gamerpage                https://www.gamelog.cl/gamers/GamerPage.php?idgamer=2159
+
+# Duskwood
+/dw-bot-status            https://stats.uptimerobot.com/OklwMHNMKE
