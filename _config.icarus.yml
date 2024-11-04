@@ -1,49 +1,49 @@
 version: 5.1.0
-variant: default #cyberpunk
+variant: cyberpunk # default
 logo: /images/logos/K4LM3D-text.png
   # text: K4LM3D
 head:
-  favicon: /images/avatars/DALLE-K4LM3D-NOBG.png
+  favicon: /images/icons/favicon.ico
   manifest: # PWA
     name: K4LM3D
     short_name: K4LM3D
-    start_url: https://kalmed.localplayer.dev # https://k4lm3d.github.io # https://kalmed.inote.me
+    start_url: https://kalmed.localplayer.dev # https://k4lm3d.github.io
     theme_color: '#91bf24'
-    background_color: '#3273dc'
+    background_color: '#91bf24' # '#3273dc'
     display: standalone
     icons:
-      # -
-      #   src: icons/touch-icon-iphone.png
-      #   sizes: 144x144
-      #   type: image/png
-      # -
-      #   src: icons/touch-icon-ipad.png
-      #   sizes: 152x152
-      # -
-      #   src: icon/logo.ico
-      #   sizes: 72x72 96x96 128x128 256x256
-  # open_graph:
-  #   title: 
-  #   type: blog
-  #   url: 
-  #   image: 
-  #   site_name: 
-  #   author: 
-  #   description: 
-  #   twitter_card: 
-  #   twitter_id: 
-  #   twitter_site: 
-  #   google_plus: 
-  #   fb_admins: 
-  #   fb_app_id: 
-  # structured_data:
-  #   title: 
-  #   description: 
-  #   url: 
-  #   author: 
-  #   image: 
-  #   publisher: 
-  #   publisher_logo: 
+      -
+        src: images/icons/apple-touch-icon.png
+        sizes: 144x144
+        type: image/png
+      -
+        src: images/icons/apple-touch-icon.png
+        sizes: 152x152
+      -
+        src: images/icons/favicon.ico
+        sizes: 72x72 96x96 128x128 256x256
+  open_graph:
+    title: K4LM3D
+    type: blog
+    url: https://kalmed.localplayer.dev
+    image: images/avatars/DALLE-K4LM3D.png
+    site_name: K4LM3D
+    author: K4LM3D
+    description: Gamer Profile
+    twitter_card: 
+    twitter_id: 
+    twitter_site: 
+    google_plus: 
+    fb_admins: 
+    fb_app_id: 
+  structured_data:
+    title: K4LM3D
+    description: Gamer Profile
+    url: https://kalmed.localplayer.dev
+    author: K4LM3D
+    image: images/avatars/DALLE-K4LM3D.png
+    publisher: K4LM3D
+    publisher_logo: images/avatars/DALLE-K4LM3D-NOBG.png
   meta:
     - name=theme-color;content=#91bf24
     - name=generator;content="Hexo 4.2.0"
@@ -52,8 +52,9 @@ navbar:
   menu: 
     Home: /
     About: /about/
-    CyberCode Online: /categories/cco/
-    Torn: /categories/torn/
+    CCO Stall: /cco/stall
+    Torn Bazaar: /bazaar
+    PAP Game: /mypeekaphonegame1
   links:
     # Github:
     #   icon: fab fa-github
@@ -72,7 +73,7 @@ navbar:
     #   url: https://tiktok.com/K4LM3D
 search:
   type: insight
-  include_pages: true
+  include_pages: false
   # Optional. Set to `false` to exclude pages from search results.
 footer: 
   links:
@@ -98,7 +99,7 @@ footer:
     #   url: https://www.twitch.tv/k4lm3d_
   article:
     highlight:
-      theme: atom-one-light # xt256, qtcreator_dark, atom-one-light
+      theme: qtcreator_dark # xt256, qtcreator_dark, atom-one-light
       clipboard: true
       fold: unfolded
     readtime: true

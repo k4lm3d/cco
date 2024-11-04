@@ -4,7 +4,7 @@
 
 # Site
 title: 'K4LM3D'
-subtitle: 'Gamer, Developer'
+subtitle: 'Gamer, Developer, Writer'
 description: 'Gamer Profile'
 keywords:
 author: 'K4LM3D'
@@ -13,7 +13,7 @@ timezone: 'Asia/Tokyo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://k4lm3d.github.io/ # https://kalmed.inote.me
+url: https://kalmed.localplayer.dev # https://k4lm3d.github.io/
 # permalink: ':year/:month/:day/:title/'
 permalink: ':category/:name/' # ':post_title/:hash'
 permalink_defaults:
@@ -76,6 +76,10 @@ category_map:
   "CyberCode Online": cco
   "Torn": torn
 tag_map:
+  "Torn: Education": Education
+  "Torn: Torn City": Torn-City
+  "CyberCode Online: Logs": Logs
+  "CyberCode Online: Shangri-La City": Shangri-La-City
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
@@ -103,7 +107,6 @@ include:
 exclude:
 ignore:
   # - "_posts/test.md"
-  - "_posts/cco/stall.md"
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
