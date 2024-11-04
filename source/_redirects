@@ -1,22 +1,38 @@
 # Redirects
   # https://k4lm3d.github.io
   # https://kalmed.localplayer.dev
-  # https://kalmed.gamelog.cl
-  # https://kalmed.inote.me
-  # https://kalmed.pages.dev
 
 # Internal
+
 /cco                      /categories/cco/
 /torn                     /categories/torn/
 
+## CyberCode Online
+/stall                    /cco/stall
+
 # External
-/quantic                  https://quantic.page.link/h5ioQWnBvFZi84cr7
+
+/facebook                 https://facebook.com/profile.php?id=100091224549821
+/gamerpage                https://www.gamelog.cl/gamers/GamerPage.php?idgamer=2159
 /guilded                  https://www.guilded.gg/u/K4LM3D
 /github                   https://github.com/k4lm3d
-/itch                     https://k4lm3d.itch.io
-/twitch                   https://www.twitch.tv/k4lm3d_
+/guns.lol                 https://guns.lol/k4lm3d
+/instagram                https://www.instagram.com/k4lm3d
+/itch.io                  https://k4lm3d.itch.io
+/twitch                   https://www.twitch.tv/k4lm3d
 /reddit                   https://reddit.com/user/K4LM3D
-/gamerpage                https://www.gamelog.cl/gamers/GamerPage.php?idgamer=2159
+/tiktok                   https://tiktok.com/K4LM3D
+/twitter                  https://twitter.com/K4LM3D
+/quantic                  https://quantic.page.link/h5ioQWnBvFZi84cr7
+/x                        https://x.com/K4LM3D
 
-# Duskwood
+## Torn
+/torn-referral            https://www.torn.com/3091002
+/bazaar                   https://www.torn.com/bazaar.php?userId=3091002#/
+
+## Duskwood
 /dw-bot-status            https://stats.uptimerobot.com/OklwMHNMKE
+
+## Peek A Phone
+/mypeekaphonegame1        https://peekaph.one/u/b73e17cc-b547-4ae1-9f3d-8da3af6a73ad
+
