@@ -14,6 +14,7 @@ excerpt: "I recently received a significant financial gift from my faction leade
 article:
   highlight:
     theme: atom-one-dark
+variant: default
 categories:
   - [Torn]
 tags:

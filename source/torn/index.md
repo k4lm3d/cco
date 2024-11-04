@@ -53,7 +53,7 @@ Torn is a massive multiplayer game with thousands of active players around the w
 
 <a href="https://www.torn.com/3091002" target="_blank"><img src="/games-images/torn/static_300x250_torncity.jpg" alt="Torn.com" /></a>
 
-<a href="https://www.torn.com/3091002" target="_blank"><img src="https://www.torn.com/sigs/8_3091002.png" /></a>
+<a href="https://www.torn.com/3091002" target="_blank"><img src="https://www.torn.com/sigs/3_3091002.png" alt="K4LM3D on Torn" /></a>
 
 <article class="message is-secondary">
   <div class="message-body">

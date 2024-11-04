@@ -77,4 +77,4 @@ After 12 days in the army, I got a job offer from a **Private Security Firm** to
 
 Oops! I still want to go on but I need to go to work now. 'Till next time 👋
 
-<a href="https://www.torn.com/3091002" target="_blank"><img src="https://www.torn.com/sigs/8_3091002.png" alt="K4LM3D on Torn" /></a>
+<a href="https://www.torn.com/3091002" target="_blank"><img src="https://www.torn.com/sigs/3_3091002.png" alt="K4LM3D on Torn" /></a>

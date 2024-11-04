@@ -12,6 +12,7 @@ article:
   highlight:
     theme: qtcreator_dark
 variant: default
+variant: default
 sidebar:
   left:
     sticky: true

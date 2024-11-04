@@ -14,6 +14,7 @@ excerpt: "I opened a bazaar for 250 points in Torn. Is it worth it? I spent days
 article:
   highlight:
     theme: atom-one-dark
+variant: default
 categories:
   - [Torn]
 tags:

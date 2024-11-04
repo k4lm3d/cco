@@ -19,6 +19,7 @@ toc: false
 article:
   highlight:
     theme: atom-one-dark
+variant: default
 sidebar:
   left:
     sticky: true

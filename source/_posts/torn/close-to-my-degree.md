@@ -14,6 +14,7 @@ excerpt: 'As I sit down to write this, I can hardly believe how close I am to ac
 article:
   highlight:
     theme: atom-one-dark
+variant: default
 categories:
   - [Torn]
 tags:
