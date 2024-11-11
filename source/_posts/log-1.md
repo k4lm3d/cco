@@ -5,48 +5,7 @@ date: '2022-01-01 00:00:00'
 # updated: '2023-06-07 14:39:58' # updated:'2024-01-22 20:40:30'
 excerpt: 'I remembered how they invited me to join their gang and welcomed me so happily. I was a novice with no friends back then, so I was really glad to talk to them.'
 categories:
-  - [CyberCode Online]
-tags:
-  - Shangri-La City
-  - Logs
-article:
-  highlight:
-    theme: qtcreator_dark
-variant: cyberpunk
-sidebar:
-  left:
-    sticky: true
-  right:
-    sticky: false
-widgets:
-  -
-    position: left
-    type: profile
-    author: K4LM3D
-    author_title: Player & Contribution Dev
-    location: Shangri-La City Center
-    avatar: /images/avatars/DALLE-K4LM3D.png
-    avatar_rounded: true
-    follow_link: https://github.com/K4LM3D
-    social_links:
-      Facebook:
-        icon: fab fa-facebook
-        url: https://facebook.com/profile.php?id=100091224549821
-      Instagram:
-        icon: fab fa-instagram
-        url: https://www.instagram.com/k4lm3d
-      Twitter:
-        icon: fab fa-twitter
-        url: https://twitter.com/K4LM3D
-      TikTok:
-        icon: fab fa-tiktok
-        url: https://tiktok.com/K4LM3D
-  -
-    position: left
-    type: links
-    links:
-      Play CyberCode Online: https://cybercodeonline.com
-      Check out my logs: /tags/logs
+  - [Logs]
 ---
 
 I remembered how they invited me to join their gang and welcomed me so happily. I was a novice with no friends back then so I was really glad to talk to them.

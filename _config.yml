@@ -5,7 +5,7 @@
 # Site
 title: 'K4LM3D'
 subtitle: 'Gamer, Developer, Writer'
-description: 'Gamer Profile'
+description: 'Gamer Profile Website'
 keywords:
 author: 'K4LM3D'
 language: en
@@ -13,9 +13,9 @@ timezone: 'Asia/Tokyo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://kalmed.localplayer.dev # https://k4lm3d.github.io/
+url: https://kalmed.localplayer.dev/cco # https://k4lm3d.github.io/
 # permalink: ':year/:month/:day/:title/'
-permalink: ':category/:name/' # ':post_title/:hash'
+permalink: ':name/' # ':post_title/:hash' ':category/:name/'
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -73,13 +73,8 @@ index_generator:
 # default_category: uncategorized
 default_category: uncategorized
 category_map:
-  "CyberCode Online": cco
-  "Torn": torn
+  "Logs": logs
 tag_map:
-  "Torn: Education": Education
-  "Torn: Torn City": Torn-City
-  "CyberCode Online: Logs": Logs
-  "CyberCode Online: Shangri-La City": Shangri-La-City
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
@@ -117,6 +112,6 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/k4lm3d/k4lm3d.github.io.git
+  repo: https://github.com/k4lm3d/cco.git
   branch: gh-pages
   message: "Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}"

@@ -52,9 +52,8 @@ navbar:
   menu: 
     Home: /
     About: /about/
-    CCO Stall: /cco/stall
-    Torn Bazaar: /bazaar
-    PAP Game: /mypeekaphonegame1
+    Stall: /stall/
+    CyberCode Online: /CyberCodeOnline/
   links:
     # Github:
     #   icon: fab fa-github
@@ -99,7 +98,7 @@ footer:
     #   url: https://www.twitch.tv/k4lm3d_
   article:
     highlight:
-      theme: qtcreator_dark # xt256, qtcreator_dark, atom-one-light
+      theme: xt256 # xt256, qtcreator_dark, atom-one-light
       clipboard: true
       fold: unfolded
     readtime: true
@@ -120,9 +119,9 @@ widgets:
     position: left
     type: profile
     author: K4LM3D
-    author_title: '/ka:md/'
-    location: localhost
-    avatar: /images/avatars/ReadyPlayerMe-K4LM3D.png
+    author_title: Player & Contribution Dev
+    location: Shangri-La City Center
+    avatar: /images/avatars/DALLE-K4LM3D.png
     avatar_rounded: true
     # gravatar: 
     follow_link: # https://github.com/K4LM3D
@@ -146,8 +145,7 @@ widgets:
   - position: right
     type: links
     links:
-      CyberCode Online: /categories/cco/
-      Torn: /categories/torn/
+      Play CyberCode Online: https://cybercodeonline.com
 plugins:
   animejs: true
   back_to_top: true

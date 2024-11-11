@@ -2,10 +2,9 @@ widgets:
   -
     position: left
     type: profile
-    author: K4LM3D
-    author_title: '/ka:md/'
-    location: localhost # Shangri-La City, Torn City, Dead City, Duskwood
-    avatar: /images/avatars/DALLE-K4LM3D.png # ReadyPlayerMe-K4LM3D.png
+    author_title: Player & Contribution Dev
+    location: Shangri-La City Center
+    avatar: /images/avatars/DALLE-K4LM3D.png
     avatar_rounded: true
     gravatar: 
     # follow_link: https://github.com/K4LM3D
@@ -22,12 +21,21 @@ widgets:
       TikTok:
         icon: fab fa-tiktok
         url: https://tiktok.com/K4LM3D
+  - 
+    position: right
+    type: toc
+    index: true
+  -
+    position: right
+    type: links
+    links:
+      Play CyberCode Online: https://cybercodeonline.com
   # -
   #   type: recent_posts
-  #   position: left
+  #   position: right
   -
     type: categories
-    position: left
-  -
-    type: tags
-    position: left
+    position: right
+  # -
+  #   type: tags
+  #   position: right

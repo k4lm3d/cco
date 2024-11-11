@@ -4,16 +4,31 @@ date: {{ date }}
 cover:
 thumbnail:
 updated:
-article:
-  # highlight:
-  #   theme: atom-one-dark
 excerpt:
+permalink:
 comments:
 layout:
 source:
 photos:
 lang:
-tags:
 categories:
-permalink:
+
+toc: false
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: false
+widgets:
+#  - 
+#    position: left
+#    type: toc
+#    index: false
+  -
+    position: left
+    type: links
+    links:
+      Play CyberCode Online: https://cybercodeonline.com
+      About K4LM3D: /About-me
+      Ukay-ukay: /stall
 ---

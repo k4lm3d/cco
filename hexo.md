@@ -7,7 +7,7 @@ This is a [Hexo](https://hexo.io/) website. Check [documentation](https://hexo.i
 ### Create a new post
 
 ``` bash
-$ npx hexo new "My New Post"
+$ hexo new "My New Post"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
@@ -15,7 +15,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 ### Run server
 
 ``` bash
-$ npx hexo server
+$ hexo server
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
@@ -23,7 +23,7 @@ More info: [Server](https://hexo.io/docs/server.html)
 ### Generate static files
 
 ``` bash
-$ npx hexo generate
+$ hexo generate
 ```
 
 More info: [Generating](https://hexo.io/docs/generating.html)
@@ -31,7 +31,7 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 ### Deploy to remote sites
 
 ``` bash
-$ npx hexo deploy
+$ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
@@ -47,7 +47,7 @@ Hexo Theme: **Icarus** ([Documentation](https://ppoffice.github.io/hexo-theme-ic
 You can run the following command:
 
 ```bash
-$ npx hexo new [layout] <title>
+$ hexo new [layout] <title>
 ```
 
 Post is the default layout, but you can supply your own. You can change the default layout by editing the `default_layout` setting in `_config.yml`.
@@ -73,7 +73,7 @@ Drafts are not displayed by default. You can add the `--draft` option when runni
 
 When creating posts, Hexo will build files based on the corresponding file in `scaffolds` folder. For example:
 
-`$ npx hexo new photo "My Gallery"`
+`$ hexo new photo "My Gallery"`
 
 When you run this command, Hexo will try to find `photo.md` in the `scaffolds` folder and build the post based on it. The following placeholders are available in scaffolds:
 
@@ -96,17 +96,17 @@ Terminal: `npx hexo <command>`
 Guide: https://hexo.io/docs/setup
 
 ```bash
-$ npx hexo init <folder>
+npx hexo init <folder>
 
-$ cd <folder>
+cd <folder>
 
-$ npm install -S hexo-theme-icarus hexo-renderer-inferno
+npm install -S hexo-theme-icarus hexo-renderer-inferno
 
-$ npx hexo config theme icarus
+npx hexo config theme icarus
 
-$ code .
+code .
 
-$ npm install hexo-deployer-git --save
+npm install hexo-deployer-git --save
 ```
 
 Guide: https://hexo.io/docs/github-pages
