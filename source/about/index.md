@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: '2023-10-03 14:05:32'
-updated: '2024-10-05 06:00:07'
+updated: '2024-11-21 03:33:03' # '2024-10-05 06:00:07'
 excerpt: "Do you wanna know who is K4LM3D in one of the busiest cities in the continent? Let's get to know her through this post!"
 toc: true
 draft: false
@@ -23,8 +23,9 @@ On this post, you will learn about me and the things I do at one of my favorite 
 
 ## 🔭 Currently working on...
   + 🎒 Crafting my `Autonomous Storage Unit (ASU)` backpack
-  + 🛒 Selling some of my old weapons and gears. Please check out my stall page called [*"Ukay-ukay"*](/stall)
+  + 🛒 Selling some of my old weapons and gears. Please check out my stall page called [*"Ukay-ukay"*](/cco/stall)
   + ⛑ Helping our `CyBunnies [BUN]` current gang leader, `BasedBunny`, and co-leader, `krolik` *(founder and former gang leader)*, on gathering gang resources
+  + ⭐ Penta @ Lv. 121
 
 ## 🌱 Currently learning...
   + To craft my *tech scraps*, *military ammunition tech parts*, and *medical tech parts* into *hash processors* when it's profitable
@@ -33,7 +34,7 @@ On this post, you will learn about me and the things I do at one of my favorite 
   - Former member of ~`X_MOD [X_X]`~, ~`Thoughts_of_Tacos [TOT]`~, ~`Kalasag [KLG]`~
   - Former leader/founder of ~`Ctrl_and_Shift [CAS]`~, ~`Peace_OutBreak [POB]`~, ~`Tagalog Channel [TAG]`~
   - Friends with these gang's leaders: ~`Marauders_Empire [MSE]`~, `Asterion [AST]`, `Nousagi [NSG]`
-  - Hopper on these gangs' headquarters: ~`Conquerors [CQR]`~, ~`Marauders_Empire [MSE]`~, `Asterion [AST]`, `Nousagi [NSG]`
+  - Hopper on these gangs' headquarters: ~`Conquerors [CQR]`~, ~`Marauders_Empire [MSE]`~, ~~`Asterion [AST]`~~, `Nousagi [NSG]`
   - Enemies: *so far, NONE*
   - Suspecious but interesting gang: `[ID▮]` 🙊🙉🙈
   - 🐰 Currently a member of `CyBunnies [BUN]`
@@ -46,7 +47,7 @@ On this post, you will learn about me and the things I do at one of my favorite 
   + 💭 I think a lot that's why I wear a ro-bunny suit created with [DELL-E](https://openai.com/dall-e-2/)'s technology to relax
 
 ## 🤫 TMIs:
-  + 👤 My nickname, **Kal**, is given to me by my CCO best friends, `Chief_Marauder` & `Ain_sel` of `Asterion [AST]`, and we have a group chat called ***ChAin3D*** on Discord
+  + 👤 My nickname, **Kal**, is given to me by my CCO best friends, `Chief_Marauder` & `Ain_sel`, and we have a group chat called ***ChAin3D*** on Discord
   + 🚩 `Nousagi [NSE]` gang is basically the (un)official Tagalog channel's gang!
   + 🤙 Hommies: `SickPanel [0_O]` *(my kawan)*
   + 🤗 More best friends:  `SkaE_17` and `En_Roise` of `Nousagi [NSG]`, `ZeaZ` of `Elysian [EYN]`
@@ -65,9 +66,9 @@ On this post, you will learn about me and the things I do at one of my favorite 
   + How to contribute to CCO?
 
 ## 🤔 Looking for...
-  + ~Gang dungeon buddy~
-  + ~Gang to hop on~
-  + Buyers of my old equipments *<small>(See <a href="/stall">Remote Stall</a>)</small>*
+  + ~~Gang dungeon buddy~~
+  + ~~Gang to hop on~~
+  + Buyers of my old equipments *<small>(See <a href="/cco/stall">Remote Stall</a>)</small>*
 
 ## 📫 How to reach me:
   + In-game: Mention me at CCO's Tagalog channel and/or send me a private message
