@@ -19,13 +19,13 @@ On this post, you will learn about me and the things I do at one of my favorite 
 
 ## 🗺 My go to places:
   + ⚓ Standby and talks a lot at CCO's **Tagalog** channel
-  + 📣 Always waiting at `#events` and `#giveaways` channels on <a href="https://discord.ggJREx8xz" target="_blank">CCO's Official Discord Server</a>
+  + 📣 Always waiting at `#events` and `#giveaways` channels on <a href="https://discord.gg/JREx8xz" target="_blank">CCO's Official Discord Server</a>
 
 ## 🔭 Currently working on...
   + 🎒 Crafting my `Autonomous Storage Unit (ASU)` backpack
-  + 🛒 Selling some of my old weapons and gears. Please check out my stall page called [*"Ukay-ukay"*](/cco/stall)
+  + 🛒 Selling some of my old weapons and gears. Please check out my remote stall page called [*"Ukay-ukay"*](/cco/stall)
   + ⛑ Helping our `CyBunnies [BUN]` current gang leader, `BasedBunny`, and co-leader, `krolik` *(founder and former gang leader)*, on gathering gang resources
-  + ⭐ Penta @ Lv. 121
+  + ⭐ Penta @ Lv. 211 (updates: Done 01/03/2025)
 
 ## 🌱 Currently learning...
   + To craft my *tech scraps*, *military ammunition tech parts*, and *medical tech parts* into *hash processors* when it's profitable
@@ -49,7 +49,7 @@ On this post, you will learn about me and the things I do at one of my favorite 
 ## 🤫 TMIs:
   + 👤 My nickname, **Kal**, is given to me by my CCO best friends, `Chief_Marauder` & `Ain_sel`, and we have a group chat called ***ChAin3D*** on Discord
   + 🚩 `Nousagi [NSE]` gang is basically the (un)official Tagalog channel's gang!
-  + 🤙 Hommies: `SickPanel [0_O]` *(my kawan)*
+  + 🤙 Hommies: `SickPanel [0_O]` *(my kawan)*, `Slwny [GIO]` *(2nd kawan)*
   + 🤗 More best friends:  `SkaE_17` and `En_Roise` of `Nousagi [NSG]`, `ZeaZ` of `Elysian [EYN]`
   + 🦜 `En_Roise`, `ZeaZ`, `Chief_Marauder` and me have a different group chat called ***C4ZE*** with out *Arclight City* profiles on Discord
   + 🤍 R.I.P.: `King_of_kings` *<small>(the real one, his best friend uses his account now)</small>*
@@ -71,12 +71,12 @@ On this post, you will learn about me and the things I do at one of my favorite 
   + Buyers of my old equipments *<small>(See <a href="/cco/stall">Remote Stall</a>)</small>*
 
 ## 📫 How to reach me:
-  + In-game: Mention me at CCO's Tagalog channel and/or send me a private message
-  + Through Discord: If you're on <a href="https://discord.ggJREx8xz" target="_blank">CCO's Official Discord</a>, you can find me at `#filipino` channel
+  + In-game: Mention me at CCO's Tagalog channel and/or send me a private message in-game
+  + Through Discord: If you're on <a href="https://discord.gg/JREx8xz" target="_blank">CCO's Official Discord</a>, you can find me at `#filipino` channel
   + On my social media pages/accounts: Facebook, Instagram and Twitter accounts
 
 ___
-*<small>Last updated on 2024-09-05</small>*
+*<small>Last updated on 2025-01-09</small>*
 <article class="message is-primary">
   <div class="message-body">
     <small>*Crossed out names are dissolved gangs or gone players</small>
