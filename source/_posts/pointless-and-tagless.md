@@ -5,21 +5,21 @@ excerpt: "I’ve been asking myself a hundred times: 'Why am I doing this?' Betw
 categories: updates
 ---
 
-## Finding My Way Back
+### Finding My Way Back
 
 After my [last post](/cco/Ahoy/) 3 years ago, I tried to keep up with this [log series](/cco/categories/logs/), but I’ll be honest: staying motivated has been a struggle. I’ve found myself asking, "Why am I doing this? What’s the purpose?"
 
 I keep reminding myself that these logs are meant to document my journey in [CyberCode Online](https://cybercodeonline.com), but real-life responsibilities keep pulling me away. There’s a constant voice in my head telling me I should be focusing on "other things" instead. I even finished a 4th log last year, but I left it in my drafts; at the time, it just didn't feel like there was any point in hitting publish.
 
-## A Long Hiatus
+### A Long Hiatus
 
 I was on and off with CCO throughout last year. I played until about July 2025, but after reaching out to my friend `En_Roise` when she returned, I ended up taking another long break.
 
-## Reconnecting with the Community
+### Reconnecting with the Community
 
 Things changed on December 24th. My twin brother, `Chief_Marauder`, invited me to `Chiiims`’ Discord server, which aims to gather all the Filipino players from CCO. I decided to join, and to my surprise, I won a giveaway on the 30th! I logged back into the game the next day to claim my prize.
 
-## The End of an Era
+### The End of an Era
 
 When I met up with `Chief_Marauder` to receive the prize, I noticed he was wearing the `[RAT]` tag. When I asked if he had switched gangs, he gave me the bad news: `CyBunnies [BUN]` has been dissolved. I hadn't even realized I was tagless until that moment. After he caught me up on everything that happened, I later shared the news on [GamerProfiles](https://gamerprofiles.com/gamer/k4lm3d/post/HyUabgNcdRo9Rm3bo6NVtx):
 
@@ -35,7 +35,7 @@ I asked `Chief_Marauder` yesterday if there were any updates on trying to rebuil
 
 While I understand their perspective, I can’t help but feel deeply saddened. I valued `[BUN]` so much. Knowing that five years of history vanished in an instant makes it even harder to find the motivation to keep going.
 
-## Moving Forward
+### Moving Forward
 
 I’ve been planning to write an update on my CCO journey since last year, but I kept procrastinating. Today, I finally decided it was time to just sit down and do it.
 
