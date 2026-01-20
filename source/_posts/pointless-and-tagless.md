@@ -6,7 +6,7 @@ categories: updates
 ---
 
 ## Finding My Way Back to CCO
-After my [last post](/Ahoy/) 3 years ago, I tried to keep up with this [log series](/categories/logs/), but I’ll be honest: staying motivated has been a struggle. I’ve found myself asking, "Why am I doing this? What’s the purpose?"
+After my [last post](/cco/Ahoy) 3 years ago, I tried to keep up with this [log series](categories/logs/), but I’ll be honest: staying motivated has been a struggle. I’ve found myself asking, "Why am I doing this? What’s the purpose?"
 
 I keep reminding myself that these logs are meant to document my journey in [CyberCode Online](https://cybercodeonline.com), but real-life responsibilities keep pulling me away. There’s a constant voice in my head telling me I should be focusing on "other things" instead. I even finished a 4th log last year, but I left it in my drafts; at the time, it just didn't feel like there was any point in hitting publish.
 
