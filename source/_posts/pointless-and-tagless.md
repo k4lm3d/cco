@@ -7,13 +7,15 @@ categories: updates
 
 ### Finding My Way Back
 
-After my [last post](/cco/Ahoy/) 3 years ago, I tried to keep up with this [log series](/cco/categories/logs/), but I’ll be honest: staying motivated has been a struggle. I’ve found myself asking, "Why am I doing this? What’s the purpose?"
+After my last ['log' post](/cco/log-3/) 4 years ago, I tried to keep up with it (see [logs](/cco/categories/logs/)), but I’ll be honest: staying motivated has been a struggle. For those who are new here, these logs are written from the perspective of my character, **K4LM3D**. It was meant to be an in-character roleplay (RP) journey, documenting how I started my life in the **City of Shangri-La**.
 
-I keep reminding myself that these logs are meant to document my journey in [CyberCode Online](https://cybercodeonline.com), but real-life responsibilities keep pulling me away. There’s a constant voice in my head telling me I should be focusing on "other things" instead. I even finished a 4th log last year, but I left it in my drafts; at the time, it just didn't feel like there was any point in hitting publish.
+​But, I’ve found myself asking, "Why am I doing this? What’s the purpose?" It’s hard to keep the story of **K4LM3D** going when the reality of real life—and the reality of the game—keeps hitting so hard.
+
+There’s a constant voice in my head telling me I should be focusing on "other things" instead. I even finished a 4th log last year, but I left it in my drafts; at the time, it just didn't feel like there was any point in hitting publish.
 
 ### A Long Hiatus
 
-I was on and off with CCO throughout last year. I played until about July 2025, but after reaching out to my friend `En_Roise` when she returned, I ended up taking another long break.
+I was on and off with [CyberCode Online](https://cybercodeonline.com) throughout last year. I played until about July 2025, but after reaching out to my friend `En_Roise` when she returned, I ended up taking another long break.
 
 ### Reconnecting with the Community
 
