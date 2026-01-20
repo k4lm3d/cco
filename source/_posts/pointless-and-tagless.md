@@ -1,6 +1,7 @@
 ---
 title: Pointless and Tagless
 date: 2026-01-20 13:40:32
+excerpt: "I’ve been asking myself a hundred times: 'Why am I doing this?' Between the feeling of burnout and the sudden news that my gang has been dissolved, I've found myself both pointless and tagless. This is an honest update on my journey in CCO and my search for a reason to keep going."
 categories: updates
 ---
 
