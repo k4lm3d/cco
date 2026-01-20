@@ -39,7 +39,7 @@ While I understand their perspective, I can’t help but feel deeply saddened. I
 
 I’ve been planning to write an update on my CCO journey since last year, but I kept procrastinating. Today, I finally decided it was time to just sit down and do it.
 
-As for what’s next, `Chief_Marauder` recently joined `Meows_Cafe [8_8]`, along with `Chiiims` and several others. They’ve invited me to join them, but for now, I’m remaining tagless. I’ve been thinking about joining [`Nousagi [NSG]`](https://nsg.is-local.org), but I’m still waiting to hear back from `En_Roise` before I make a final decision.
+As for what’s next, `Chief_Marauder` recently joined `Meow_Cafe [8_8]`, along with `Chiiims` and several others. They’ve invited me to join them, but for now, I’m remaining tagless. I’ve been thinking about joining [`Nousagi [NSG]`](https://nsg.is-local.org), but I’m still waiting to hear back from `En_Roise` before I make a final decision.
 
 <br>
 
