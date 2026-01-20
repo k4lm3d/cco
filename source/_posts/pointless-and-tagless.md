@@ -21,7 +21,7 @@ Things changed on December 24th. My twin brother, `Chief_Marauder`, invited me t
 
 ## The End of an Era
 
-When I met up with `Chief_Marauder` to receive the prize, I noticed he was wearing the `[RAT]` tag. When I asked if he had switched gangs, he gave me the bad news: `CyBunnies [BUN]` has been dissolved. I hadn't even realized I was tagless until that moment. After he caught me up on everything that happened, I shared a [post](https://gamerprofiles.com/gamer/k4lm3d/post/HyUabgNcdRo9Rm3bo6NVtx) about it.
+When I met up with `Chief_Marauder` to receive the prize, I noticed he was wearing the `[RAT]` tag. When I asked if he had switched gangs, he gave me the bad news: `CyBunnies [BUN]` has been dissolved. I hadn't even realized I was tagless until that moment. After he caught me up on everything that happened, I later shared the news on [GamerProfiles](https://gamerprofiles.com/gamer/k4lm3d/post/HyUabgNcdRo9Rm3bo6NVtx):
 
 > 5 years worth of upkeep is all gone! 😕
 >
@@ -31,13 +31,17 @@ When I met up with `Chief_Marauder` to receive the prize, I noticed he was weari
 >
 > Right now, some of us hopped to other gangs temporarily, while the rest (including me) were tagless (no gang).
 
-<article class="message is-primary">
+<!-- <article class="message is-primary">
   <div class="message-body">
     <small>
       Originally posted on (<a href="https://gamerprofiles.com" target="_blank">GamerProfiles</a>)
     </small>
   </div>
-</article>
+</article> -->
+
+I asked `Chief_Marauder` yesterday if there were any updates on trying to rebuild, but he said there wasn’t much point. Without the accumulated resources and funds, starting over from scratch feels like too much of a hassle for everyone involved.
+
+While I understand their perspective, I can’t help but feel deeply saddened. I valued `[BUN]` so much. Knowing that five years of history vanished in an instant makes it even harder to find the motivation to keep going.
 
 ## Moving Forward
 
