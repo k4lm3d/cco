@@ -5,21 +5,42 @@ excerpt: "I’ve been asking myself a hundred times: 'Why am I doing this?' Betw
 categories: updates
 ---
 
-## Finding My Way Back to CCO
+## Finding My Way Back
+
 After my [last post](/cco/Ahoy/) 3 years ago, I tried to keep up with this [log series](/cco/categories/logs/), but I’ll be honest: staying motivated has been a struggle. I’ve found myself asking, "Why am I doing this? What’s the purpose?"
 
 I keep reminding myself that these logs are meant to document my journey in [CyberCode Online](https://cybercodeonline.com), but real-life responsibilities keep pulling me away. There’s a constant voice in my head telling me I should be focusing on "other things" instead. I even finished a 4th log last year, but I left it in my drafts; at the time, it just didn't feel like there was any point in hitting publish.
 
 ## A Long Hiatus
+
 I was on and off with CCO throughout last year. I played until about July 2025, but after reaching out to my friend `En_Roise` when she returned, I ended up taking another long break.
 
 ## Reconnecting with the Community
+
 Things changed on December 24th. My twin brother, `Chief_Marauder`, invited me to `Chiim`’s Discord server, which aims to gather all the Filipino players from CCO. I decided to join, and to my surprise, I won a giveaway on the 30th! I logged back into the game the next day to claim my prize.
 
-## The End of an Era: `[BUN]` Dissolved
-When I met up with `Chief_Marauder` to receive the prize, I noticed he was wearing the `[RAT]` tag. When I asked if he had switched gangs, he gave me the bad news: `CyBunnies [BUN]` has been dissolved. I hadn't even realized I was tagless until that moment. After he caught me up on everything that happened, I shared a post about it on GamerProfiles which I've also posted [here](/cco/bun-is-gone/) yesterday. If you want some tea, feel free to read it.
+## The End of an Era
+
+When I met up with `Chief_Marauder` to receive the prize, I noticed he was wearing the `[RAT]` tag. When I asked if he had switched gangs, he gave me the bad news: `CyBunnies [BUN]` has been dissolved. I hadn't even realized I was tagless until that moment. After he caught me up on everything that happened, I shared a [post](https://gamerprofiles.com/gamer/k4lm3d/post/HyUabgNcdRo9Rm3bo6NVtx) about it.
+
+> 5 years worth of upkeep is all gone! 😕
+>
+> Our gang leader, **krolik**, deleted his account yesterday. He forgot to transfer the leadership to **BasedBunny** before deleting it. This causes our gang, **CyBunnies [BUN]** to dissolved.
+>
+> **DexterHuang**, the developer said that we can create a new one but he can only restore the level, not everything (resources, funds, members).
+>
+> Right now, some of us hopped to other gangs temporarily, while the rest (including me) were tagless (no gang).
+
+<article class="message is-primary">
+  <div class="message-body">
+    <small>
+      Originally posted on (<a href="https://gamerprofiles.com" target="_blank">GamerProfiles</a>)
+    </small>
+  </div>
+</article>
 
 ## Moving Forward
+
 I’ve been planning to write an update on my CCO journey since last year, but I kept procrastinating. Today, I finally decided it was time to just sit down and do it.
 
 As for what’s next, `Chief_Marauder` recently joined `Meows_Cafe [8_8]`, along with `Chiim` and several others. They’ve invited me to join them, but for now, I’m remaining tagless. I’ve been thinking about joining [`Nousagi [NSG]`](https://nsg.is-local.org), but I’m still waiting to hear back from `En_Roise` before I make a final decision.
