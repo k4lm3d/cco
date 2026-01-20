@@ -12,4 +12,4 @@ categories: 'updates'
 >
 > Right now, some of us hopped to other gangs temporarily, while the rest (including me) were tagless (not part of any gang).
 
-Original posted at [GamerProfiles.com](https://gamerprofiles.com/gamer/k4lm3d/post/HyUabgNcdRo9Rm3bo6NVtx) *(some details are changed/added)*
+Originally posted at [GamerProfiles.com](https://gamerprofiles.com/gamer/k4lm3d/post/HyUabgNcdRo9Rm3bo6NVtx) *(some details are changed/added)*
