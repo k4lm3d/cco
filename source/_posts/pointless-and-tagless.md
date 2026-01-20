@@ -17,7 +17,7 @@ I was on and off with CCO throughout last year. I played until about July 2025, 
 
 ## Reconnecting with the Community
 
-Things changed on December 24th. My twin brother, `Chief_Marauder`, invited me to `Chiim`’s Discord server, which aims to gather all the Filipino players from CCO. I decided to join, and to my surprise, I won a giveaway on the 30th! I logged back into the game the next day to claim my prize.
+Things changed on December 24th. My twin brother, `Chief_Marauder`, invited me to `Chiiims`’ Discord server, which aims to gather all the Filipino players from CCO. I decided to join, and to my surprise, I won a giveaway on the 30th! I logged back into the game the next day to claim my prize.
 
 ## The End of an Era
 
@@ -31,14 +31,6 @@ When I met up with `Chief_Marauder` to receive the prize, I noticed he was weari
 >
 > Right now, some of us hopped to other gangs temporarily, while the rest (including me) were tagless (no gang).
 
-<!-- <article class="message is-primary">
-  <div class="message-body">
-    <small>
-      Originally posted on (<a href="https://gamerprofiles.com" target="_blank">GamerProfiles</a>)
-    </small>
-  </div>
-</article> -->
-
 I asked `Chief_Marauder` yesterday if there were any updates on trying to rebuild, but he said there wasn’t much point. Without the accumulated resources and funds, starting over from scratch feels like too much of a hassle for everyone involved.
 
 While I understand their perspective, I can’t help but feel deeply saddened. I valued `[BUN]` so much. Knowing that five years of history vanished in an instant makes it even harder to find the motivation to keep going.
@@ -47,7 +39,7 @@ While I understand their perspective, I can’t help but feel deeply saddened. I
 
 I’ve been planning to write an update on my CCO journey since last year, but I kept procrastinating. Today, I finally decided it was time to just sit down and do it.
 
-As for what’s next, `Chief_Marauder` recently joined `Meows_Cafe [8_8]`, along with `Chiim` and several others. They’ve invited me to join them, but for now, I’m remaining tagless. I’ve been thinking about joining [`Nousagi [NSG]`](https://nsg.is-local.org), but I’m still waiting to hear back from `En_Roise` before I make a final decision.
+As for what’s next, `Chief_Marauder` recently joined `Meows_Cafe [8_8]`, along with `Chiiims` and several others. They’ve invited me to join them, but for now, I’m remaining tagless. I’ve been thinking about joining [`Nousagi [NSG]`](https://nsg.is-local.org), but I’m still waiting to hear back from `En_Roise` before I make a final decision.
 
 <br>
 
