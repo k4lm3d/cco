@@ -7,7 +7,7 @@ categories: updates
 
 In my last post, "[Pointless and Tagless](/cco/pointless-and-tagless)," I was pretty set on staying solo for a while. I wanted to find my purpose before committing to a new tag. But as it turns out, the reality of life in Shangri-La City had other plans for me.
 
-## The Inventory Crisis
+### The Inventory Crisis
 
 My inventory was overflowing with `Medical Tech Scraps` (MTS), and without a tech recycler, I couldn't do my normal routine. I was stuck.
 
@@ -15,7 +15,7 @@ For those who scavenge, you know the drill—once your bags are full, your routi
 
 I needed a tech recycler. It’s the only efficient way to turn those MTS into `Tech Scraps` (TS) and keep moving.
 
-## Coming Home to Nousagi
+### Coming Home to Nousagi
 
 I reached out to `Xythran` to see if I could use their facilities, but the rule was clear: I had to be a member of `Nousagi [NSG]`.
 
@@ -25,7 +25,7 @@ At that time, `En_Roise` was `Skae_19`’s right-hand. When `Skae_19` eventually
 
 So, while I joined because I had work to do, it feels right to be back with friends who I’ve known since the very beginning.
 
-## Back to the Grind
+### Back to the Grind
 
 Once I had the `[NSG]` tag, I finally got to work. I spent the entire week in a steady rhythm:
 
