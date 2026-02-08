@@ -35,3 +35,12 @@ Once I had the `[NSG]` tag, I finally got to work. I spent the entire week in a 
 
 It’s been a busy week of clearing out the clutter and getting my journey back on track. It wasn't exactly the "grand purpose" I was looking for, but it kept me productive.
 
+<article class="message is-primary">
+  <div class="message-title">
+    <i class="fas fa-info mr-2"></i> What’s Next?
+  </div>
+  <div class="message-body">​Now that I’m back in the swing of things with [NSG], I’ve been thinking a lot about the old days. I was there when this gang was just a small spark in the city, and I saw firsthand how it grew into what it is today.<br>
+​I’m curious—would you guys be interested in a deep dive into the History of Nousagi? I’d love to share the full story of how it all started, from the early lessons we taught Skae_19 to the leadership of En_Roise today.<br>
+​Let me know in the [comments](https://gamerprofiles.com/gamer/k4lm3d?inviter=wnB4D) if that’s something you’d like to read!
+  </div>
+</article>
