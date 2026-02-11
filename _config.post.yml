@@ -16,9 +16,9 @@ widgets:
         icon: fab fa-instagram
         url: https://www.instagram.com/k4lm3d
       TikTok:
-          icon: fab fa-fa-tiktok
-          url: https://tiktok.com/@K4LM3D
-      Ko-fi:
+        icon: fab fa-tiktok
+        url: https://tiktok.com/@K4LM3D
+      Kofi:
         icon: fab fa-ko-fi
         url: https://ko-fi.com/kalmedkaliber
   - 
