@@ -11,3 +11,6 @@ Hello, world!
   + ~~[GitHub Pages](https://pages.github.com) > [k4lm3d.github.io](https://k4lm3d.github.io)~~
   + ~~[FreeDNS](https://freedns.afraid.org) > [kalmed.inote.me](https://kalmed.ionte.me)~~
   + [Open Domains](https://open-domains.net) > [kalmed.localplayer.dev](https://kalmed.localplayer.dev)
+
+___
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O21U14QZ)
