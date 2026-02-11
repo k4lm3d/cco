@@ -135,9 +135,9 @@ widgets:
       TikTok:
         icon: fab fa-tiktok
         url: https://tiktok.com/@k4lm3d
-      Ko-fi:
-        icon: fab fa-ko-fi
-        url: https://ko-fi.com/kalmedkaliber
+      # Ko-fi:
+      #   icon: fab fa-ko-fi
+      #   url: https://ko-fi.com/kalmedkaliber
   - 
     position: right
     type: toc
@@ -146,6 +146,11 @@ widgets:
     type: links
     links:
       Play CyberCode Online: https://cybercodeonline.com
+  -
+    position: right
+    type: links
+    links:
+      Support me on Ko-fi: https://ko-fi.com/kalmedkaliber
 plugins:
   animejs: true
   back_to_top: true
