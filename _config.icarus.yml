@@ -146,10 +146,6 @@ widgets:
     type: links
     links:
       Play CyberCode Online: https://cybercodeonline.com
-  -
-    position: right
-    type: links
-    links:
       Support me on Ko-fi: https://ko-fi.com/kalmedkaliber
 plugins:
   animejs: true
